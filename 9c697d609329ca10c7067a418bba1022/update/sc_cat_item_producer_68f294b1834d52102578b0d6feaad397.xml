@@ -47,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Arlesha Moore">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture>99ffd87cc3111210bbce341d05013152</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -169,4 +169,15 @@
         <sys_created_on>2024-10-14 14:12:23</sys_created_on>
         <sys_id>5dffd87cc3111210bbce341d05013152</sys_id>
     </sys_attachment_doc>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>68f294b1834d52102578b0d6feaad397</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 17:00:27</sys_created_on>
+        <sys_id>0366c5788351921014525930ceaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 17:00:27</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
